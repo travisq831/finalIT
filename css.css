@@ -1,0 +1,11 @@
+body,html
+{margin-bottom:0px;
+margin-top:0px;
+margin-left:0px;
+margin-right:0px;
+background-color:black;}
+
+#stuff{
+height:50px;
+width:100%;
+background-color:white;}
