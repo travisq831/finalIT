@@ -5,7 +5,12 @@ margin-left:0px;
 margin-right:0px;
 background-color:black;}
 
-#stuff{
+#searchbar{
 height:50px;
 width:100%;
 background-color:white;}
+
+#test{
+ margin-top:100px;
+ height:50px
+   width:100%;}
