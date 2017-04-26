@@ -3,7 +3,8 @@ body,html{background:url("http://www.v3wall.com/wallpaper/1366_768/1009/1366_768
 	margin-right:0px;
 }
 
-#title{background-color:#E64A19}
+#title{background-color:#E64A19;
+height:100px;}
 #searchbar{
 height:50px;
 width:100%;
