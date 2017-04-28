@@ -1,0 +1,50 @@
+<html>
+<head>
+<link rel="stylesheet" href="css.css">
+</head>
+<body>
+<div id="title"><center><b><u>iStone2.8</b></u></center></div>
+  
+  
+  
+  
+  
+  
+<div id="container">
+	<nav>
+	<ul>
+	<li><a href="#">Home</a></li>
+	<li><a href="#">placeholder</a>
+          
+    <ul>
+		<li><a href="about.html">Page 1</a></li>
+		<li><a href="buy.html"></a></li>
+		<li><a href="contact.html">page 3</a></li>
+    </ul>        
+    </li>
+			
+</div>
+<div id="image">
+	<img class="slides" src="xp.jpg" width="500px" height="500px">
+	<img class="slides" src="spiderman.jpeg" width="500px" height="500px">
+	<img class="slides" src="ratpack.jpg" width="500px" height="500px">
+	<img class="slides" src="pixlr.jpg" width="500px" height="500px">
+</div>
+<script>
+var slideIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("slides");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none"; 
+    }
+    slideIndex++;
+    if (slideIndex > x.length) {slideIndex = 1} 
+    x[slideIndex-1].style.display = "block"; 
+    setTimeout(carousel, 5000); // Change image every 2 seconds
+}
+</script>
+</body>
+</html>
