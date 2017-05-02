@@ -13,7 +13,8 @@ background-color:black;}
 
  
 #container{width:100%;
-position:static
+position:absolute;
+top: 200px;
 }
 
 body {
