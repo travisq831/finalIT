@@ -1,20 +1,23 @@
 body,html{background:url("http://www.v3wall.com/wallpaper/1366_768/1009/1366_768_201009251248221988068.jpg");
 	margin-left:0px;
 	margin-right:0px;
+	margin-top: 0px;
 }
 
-#title{background-color:#E64A19;
-height:50px;}
+
 
 #searchbar{
+	
+
 height:50px;
 width:100%;
 background-color:black;}
 
  
-#container{width:100%;
+#container{
+width:100%;
 position:absolute;
-top: 200px;
+top: -50px;
 }
 
 body {
@@ -119,5 +122,5 @@ nav ul ul ul li {
 
 #image {margin-top:400px;
 z-index:+2}
-	
-	
+
+
