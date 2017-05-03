@@ -1,4 +1,4 @@
-body,html{background:url("http://www.v3wall.com/wallpaper/1366_768/1009/1366_768_201009251248221988068.jpg");
+body,html{background:url("https://www.designdune.com/wp-content/uploads/2011/10/Paper-Background-Texture-520x728.jpg");
 	margin-left:0px;
 	margin-right:0px;
 	margin-top: 0px;
@@ -123,6 +123,22 @@ nav ul ul ul li {
 #image {margin-top:400px;
 z-index:+2}
 
+
+#info{
+position: absolute;
+top: 100px;
+left: 300px;
+width: 700px;
+height: 500px;
+color: black;
+
+border: 5px solid black;
+background-color: white;
+
+
+	
+	
+}
 
 
 	
