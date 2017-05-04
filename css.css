@@ -120,14 +120,15 @@ nav ul ul ul li {
 
 
 
-#image {margin-top:400px;
+#image {margin-top:900px;
+
 z-index:+2}
 
 
 #info{
 position: absolute;
 top: 100px;
-left: 300px;
+left: 400px;
 width: 700px;
 height: 500px;
 color: black;
@@ -140,6 +141,38 @@ background-color: white;
 	
 }
 
+#phonepic {
+position: absolute;
+top: 250px;
+left: 20px;
+width: 350px;
+height: 350px;
+color: black;
 
+border: 5px solid black;
+background-color: white;
 	
+	
+	
+}
+
+#exinfo {
+position: absolute;
+top: 100px;
+left: 1130px;
+width: 250px;
+height: 500px;
+color: black;
+
+border: 5px solid black;
+background-color: white;
+	
+	
+	
+	
+	
+	
+	
+}
+
 	
