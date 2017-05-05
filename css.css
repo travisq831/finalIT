@@ -183,4 +183,7 @@ background-color: white;
 	
 	
 }
-#aboutmaintext
+#abouttext{
+	text-align:justify;
+	height:100;
+	width:100%;
