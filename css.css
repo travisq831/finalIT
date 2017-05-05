@@ -150,11 +150,8 @@ height: 350px;
 color: black;
 
 border: 5px solid black;
-background-color: white;
-	
-	
-	
-}
+background-color: white;}
+
 #phonepic {
     -ms-transform: rotate (90deg); /* IE 9 */
     -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
@@ -165,6 +162,7 @@ background-color: white;
 	
 	
 
+
 #exinfo {
 position: absolute;
 top: 100px;
@@ -172,7 +170,7 @@ left: 1130px;
 width: 250px;
 height: 500px;
 color: black;
-text-align:justify;
+
 border: 5px solid black;
 background-color: white;
 	
@@ -183,11 +181,54 @@ background-color: white;
 	
 	
 }
-#abouttext{
-	background-color:black;
-	text-align:justify;
-	height:100;
-	width:100%;
-	margin-left:100px;
-	margin-right:100px;
-	margin-top:200;}
+
+
+
+
+
+
+/* Contact us */
+
+
+#contactbox1 {
+	
+	position: absolute;
+top: 100px;
+left: 400px;
+width: 1000px;
+height: 500px;
+color: black;
+
+border: 5px solid black;
+background-color: white;
+	
+	
+	
+	
+	
+}
+
+#phonepic2  {
+	
+	position: absolute;
+top: 250px;
+left: 20px;
+width: 350px;
+height: 350px;
+color: black;
+
+border: 5px solid black;
+background-color: white;}
+    
+#phonepic2	{
+	-ms-transform: rotate (90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);	
+	
+	
+	
+	
+	
+	
+}
+
