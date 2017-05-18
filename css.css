@@ -150,14 +150,10 @@ height: 350px;
 color: black;
 
 border: 5px solid black;
-background-color: white;}
-
-#phonepic {
-    -ms-transform: rotate (90deg); /* IE 9 */
+background-color: white;
+   -ms-transform: rotate (90deg); /* IE 9 */
     -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
-    transform: rotate(90deg);
-}
-
+    transform: rotate(90deg);}
 	
 	
 	
